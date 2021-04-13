@@ -46,7 +46,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-18.webp",
    
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_11.webp",
    
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_13.webp",
