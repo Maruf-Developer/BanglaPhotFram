@@ -1,19 +1,25 @@
 {
   "portrait":[
+  
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port1/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port1/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port3/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port3/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port3/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port2/fram-14.webp",
+     
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f45.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/port/fram-12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f34.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f6.webp", 
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f42.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/pot/fram-14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/portrait/fram-12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/portrait/fram-15.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/prt/f42.webp"
     
     ],
    "portrait1":[
@@ -37,28 +43,24 @@
     ],
    
    "square":[
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-10.webp",
-    
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/sqr/dp-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/sqr/dp-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/squr/fram-4.webp",
-    
    
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakFram/square/fram-18.webp"
-
-
-
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr1/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr4/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr4/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr4/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr4/fram-6.webp",
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr/fram-6.webp"
    
     ],
    "square1":[
