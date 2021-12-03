@@ -45,7 +45,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr2/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr2/fram-11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr3/frames_11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr2/fram-13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/squr2/fram-15.webp"
     
     ],
