@@ -52,8 +52,7 @@
      
           
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/fram-21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-22.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-21.webp"
      
     ]
 }
