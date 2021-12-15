@@ -99,6 +99,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/bijoynew/fram-12.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-5.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-6.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BijoyDiboshPhotFrme/land1/fram-7.webp",
