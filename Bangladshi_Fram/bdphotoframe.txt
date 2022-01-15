@@ -53,7 +53,6 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-2.webp",  
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-7.webp",
