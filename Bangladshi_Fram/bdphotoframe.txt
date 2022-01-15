@@ -45,30 +45,30 @@
    
    "square":[
    
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-2.webp",  
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-7.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-8.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-10.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-12.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-13.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-14.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-15.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-16.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-18.webp",
    
- "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-1.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-1.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-5.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-6.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-7.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-8.webp",
-      
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-3.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-4.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/square/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/squrpatch/fram-20.webp"
    
     ],
    "square1":[
@@ -265,7 +265,10 @@
       
     
     "landscape6":[
-       "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landscape_1/fram-7.webp",
+       "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-3.webp",
+   
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landscape_1/fram-8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landscape_2/frame%20(17).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landscape_4/frame%20(20).webp",
