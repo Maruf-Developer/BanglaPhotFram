@@ -114,22 +114,22 @@
    
   "square2":[
   
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-23.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-25.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-1.webp",  
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square/frame-25.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-1.webp",  
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/square1/frame-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_3.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/square/frame-5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-19.webp",
@@ -300,7 +300,7 @@
       
     
     "landscape6":[
-       "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landpatch/fram-3.webp",
    
@@ -315,7 +315,8 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/landscape_1/fram-19.webp"
    
     ],
-   "landscape7":[
+ 
+ "landscape7":[
    
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/RoseDay/frame-1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/RoseDay/frame-19.webp",
@@ -325,7 +326,6 @@
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/ProposeDay/frame%20(24).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/ChocolateDay/frame-1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/ChocolateDay/frame-22.webp",
- 
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/TeddyDay/frame-3.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/TeddyDay/frame-10.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/PromiseDay/frame%20(5).webp",
