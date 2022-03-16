@@ -1,60 +1,13 @@
-{
-  "portrait":[
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_1.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_3.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_7.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_8.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_11.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_12.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_13.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_14.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_15.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_16.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_17.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_18.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_20.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_22.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_23.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_24.webp"
-   
-    ],
-   "portrait1":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-4.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_7.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_8.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_9.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_11.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(11).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(23).webp"
-    ],
-    
-    "portrait2":[
-   
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fa3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fb2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/ff2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fl1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fl2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fwe3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_14.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port4/fram-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port3/fram-17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png"
-    ],
-   
-   "square":[
-   
+{ 
+"square":[
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-8.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr/frame-3.webp",
@@ -70,15 +23,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-11.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-16.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-13.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-14.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-20.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-22.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-23.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-24.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-25.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-26.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/squr1/frame-14.webp"
    
     ],
     
@@ -158,6 +103,60 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-21.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-22.webp"
 	],
+	
+  "portrait":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_15.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_16.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_17.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_19.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_20.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_22.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/port1/march_24.webp"
+   
+    ],
+   "portrait1":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(11).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ValntineDayFrmes/portrait_1/frame%20(23).webp"
+    ],
+    
+    "portrait2":[
+   
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fa3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fb2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/ff2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fl1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fl2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/portrait/fwe3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port4/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port3/fram-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png"
+    ],
    
   "landscape":[
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/land1/fram-1.webp",
