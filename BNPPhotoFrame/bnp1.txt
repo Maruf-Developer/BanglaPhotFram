@@ -40,6 +40,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-16.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-20.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-21.webp",
@@ -50,6 +53,11 @@
         ],
         
   "landscape":[    
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-4.webp",
+  
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/khaleda1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/l1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-27.webp",
@@ -65,18 +73,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-20.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-22.webp",
-    
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/landd/eidframe75.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-9.webp",  
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/ldn/b-1.webp", 
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/landd/eidframe6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/landd/eidframe15.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/landd/eidframe58.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-22.webp"
     
     ]
     
