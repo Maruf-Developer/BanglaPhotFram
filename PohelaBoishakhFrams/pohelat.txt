@@ -1,9 +1,15 @@
 {
   "square":[
+  
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-22.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-25.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-26.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-24.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-20.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-2.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-3.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-5.webp",
   
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-1.webp",
@@ -25,14 +31,10 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-17.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-18.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-20.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-22.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-23.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-24.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-25.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-26.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-27.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/squar/fram-27.webp",
+  
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430sq/fram-4.webp",
   
   ],
     
@@ -46,10 +48,9 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430port/fram-7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/1430port/fram-8.webp",
    
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-5.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-6.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/PohelaBoishakhFrams/portrat/fram-7.webp",
