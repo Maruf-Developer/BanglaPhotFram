@@ -11,8 +11,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-9.webp",
@@ -20,9 +18,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/square/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthsqr/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-16.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-18.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/squr/fram-16.webp"
         ],
 
  "portrait":[
@@ -45,9 +44,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/mujibirthland/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land2/fram-6.webp",
@@ -55,14 +52,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-3.webp",
 
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-24.webp",
 
