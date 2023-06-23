@@ -61,10 +61,9 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/khaleda/land-7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/khaleda/land-8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/tarek/land-10.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/land/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/land/fram-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/land/fram-9.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/land/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/land/fram-7.webp"
 
  ],
         
@@ -76,6 +75,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/land-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-14.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-15.webp",
