@@ -33,19 +33,19 @@
     ],
 
   "landscape":[  
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-4.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasina/land-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasina/land-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-2.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-3.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-4.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-5.webp",
 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-9.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasina/land-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-15.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasina/land-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-28.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-15.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land2/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/JoyBanglaFrame/landscape/frame-16.webp"
  ]
