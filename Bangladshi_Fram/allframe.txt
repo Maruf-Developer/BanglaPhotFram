@@ -286,12 +286,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/12.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/13.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/14.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/15.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/16.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/17.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/18.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/19.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/20.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/port/15.webp"
 ],
 "landscape7":[  
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/PaecokcPhtFrms/land/1.webp",
