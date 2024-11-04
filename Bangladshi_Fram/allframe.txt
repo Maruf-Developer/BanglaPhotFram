@@ -2890,8 +2890,6 @@
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/fram-3.webp",    
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-2.webp",
