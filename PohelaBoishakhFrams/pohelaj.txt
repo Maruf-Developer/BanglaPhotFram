@@ -1,0 +1,75 @@
+{
+  "square":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram15.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram16.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram17.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram19.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram20.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/squr/fram22.webp"
+  
+  ],
+    
+  "portrait":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram15.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/port/fram16.webp"
+   
+    ],
+    
+  "landscape":[
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram16.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram17.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram19.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram20.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram22.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram23.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram25.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram27.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/PohalBoisshakhPhtoFrm/1432/land/fram30.webp"
+   
+    ]
+}
