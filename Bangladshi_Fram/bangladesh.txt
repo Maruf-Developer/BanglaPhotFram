@@ -218,10 +218,6 @@
 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/khaleda/squr-4.webp", 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/bnp1/squr-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/squr-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/squr-5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/fram-13.webp",
@@ -1391,4 +1387,5 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-10.webp"
      ]
   }
+
 
