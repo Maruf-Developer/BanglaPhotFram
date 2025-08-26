@@ -1042,7 +1042,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/khaleda1.webp",
 
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/l1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-24.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-25.webp",
@@ -1050,7 +1050,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-27.webp", 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-11.webp"
 ],
 
@@ -1396,6 +1395,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-10.webp"
      ]
   }
+
 
 
 
