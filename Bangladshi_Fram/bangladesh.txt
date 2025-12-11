@@ -1382,8 +1382,17 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-10.webp"
-     ]
+     ],
+
+
+"square68":[
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram4.webp"
+]
   }
+
 
 
 
