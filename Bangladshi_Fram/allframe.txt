@@ -2744,6 +2744,12 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/26aMarchhPhtooFrme/land2/fram-19.webp"
 ],
 
+"square68":[
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram4.webp"
+],
 "square46":[
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-2.webp",
