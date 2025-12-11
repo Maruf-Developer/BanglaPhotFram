@@ -49,7 +49,13 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/khaleda/squr-11.webp"
  ],
 
- "portrait":[
+ "portrait":[    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/bijoy/squr%20(1).webp",
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/11September/port1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/11September/port2.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/port1.webp",
