@@ -2839,7 +2839,10 @@
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram3.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram4.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/14thDcemberPhotFrme/fram7.webp"
 ],
 
 "square46":[
@@ -3544,4 +3547,5 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-28.webp"
 ]
 }
+
 
