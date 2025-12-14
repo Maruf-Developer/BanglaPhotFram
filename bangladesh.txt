@@ -2672,20 +2672,19 @@
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(20).webp"
 ],
  "portrait43":[
-"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(2).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(3).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/port%20(4).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/port/f6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/dec/port3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/dec/port2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/bijoy/port.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/port/port-1.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(4).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(5).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(6).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(7).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(8).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(9).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(10).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(11).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(12).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/port%20(13).webp"
       
     ],
 "landscape43":[
@@ -3557,6 +3556,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-28.webp"
 ]
 }
+
 
 
 
