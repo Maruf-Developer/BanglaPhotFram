@@ -2,6 +2,8 @@
   "square":[
 
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/squr%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/sq%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/sq%20(2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/squr%20(2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/squr%20(3).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/squr%20(4).webp",
@@ -11,8 +13,8 @@
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(2).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(3).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(4).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(11).webp",
-	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr1/squr1%20(13).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/sq%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/sq%20(4).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(6).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/bijoy/squr%20(3).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/bijoy/squr%20(1).webp",
@@ -112,7 +114,10 @@
     
     
   "landscape":[
-   
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/ld%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/ld%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/ld%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/ld%20(2).webp",
         "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(1).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(2).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(3).webp",
