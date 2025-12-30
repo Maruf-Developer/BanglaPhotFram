@@ -2953,16 +2953,11 @@
 ],
 
 "square48":[
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/sq%20(1).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/sq%20(2).webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr3.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr6.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr11.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/squr12.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/squr%20(1).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/squr%20(2).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/squr%20(3).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/squr%20(4).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/squr%20(5).webp",
 
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birth1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birth3.webp",
@@ -3022,10 +3017,9 @@
 ],
 
  "portrait48":[
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/prt%20(1).webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/prt%20(2).webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/prt%20(3).webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/tarek/prt%20(4).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/port%20(1).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/port%20(2).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/port%20(3).webp",
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/tarek1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/tarek2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijoyhd/tarek3.webp",
@@ -3040,12 +3034,10 @@
 
 "landscape48":[
 
-  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land.webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land1.webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land2.webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land3.webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land4.webp",
- "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/foundtion/47th/land5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/land%20(1).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/land%20(2).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/land%20(3).webp",
+"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda_death/land%20(4).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birthl1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/khaleda1.webp",
 
@@ -3567,6 +3559,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/MuharramAshuraPhotoFrams/land/fram-28.webp"
 ]
 }
+
 
 
 
